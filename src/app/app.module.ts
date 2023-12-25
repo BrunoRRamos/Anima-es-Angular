@@ -23,7 +23,7 @@ import { MensagemComponent } from './componentes/mensagem/mensagem.component';
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
