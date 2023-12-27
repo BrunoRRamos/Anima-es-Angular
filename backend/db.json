@@ -23,9 +23,9 @@
     },
     {
       "id": 6,
-      "descricao": "Ler",
-      "statusFinalizado": false,
+      "descricao": "Ler HOJE",
       "categoria": "Estudos",
+      "statusFinalizado": false,
       "prioridade": "Alta"
     }
   ]
